@@ -13,3 +13,8 @@ py manage.py runserver
 or if you are on mac
 
 python3 manage.py runserver
+
+
+<p align="center">
+  <img src="https://i.ibb.co/dm1vX8G/blog-app-ss.png">
+</p>
