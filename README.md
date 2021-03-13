@@ -9,7 +9,8 @@ After installing all the requirements given in requirments.txt
 
 Open Terminal and run the following command:
 
-```py manage.py runserver
+```
+py manage.py runserver
 ```
 
 or if you are on mac
