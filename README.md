@@ -1,5 +1,6 @@
 # Blog-App-in-Django
-simple sweet blog app made with the help of django framework
+simple sweet blog app made with the help of django framework.
+
 Live demo at https://blogsofsaiyam.herokuapp.com/
 
 ## Pre-requisites for running in your system
